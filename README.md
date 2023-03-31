@@ -11,7 +11,7 @@ Andrew Smith-
 
 Somya Tailang- 
 
-Ava Weichel- 
+Ava Weichel- https://github.com/avaweichel/avaweichel/blob/main/README.md
 
 
 ## Problem Description
