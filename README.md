@@ -3,9 +3,9 @@
 
 Group: 21479_9
 
-Rishitha Cheemarla- 
+Rishitha Cheemarla- https://github.com/rishitha-cheemarla/rishitha
 
-Peyton McWhorter- 
+Peyton McWhorter- https://github.com/pem83470/Group-9
 
 Andrew Smith- https://github.com/andrewmsjr/Andrew-Smith-4610-Group-9
 
